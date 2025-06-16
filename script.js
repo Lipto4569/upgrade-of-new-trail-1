@@ -1,0 +1,1 @@
+alert("IF YOU OPEN THEN YOU OPEN");

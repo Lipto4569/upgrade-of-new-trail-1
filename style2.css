@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url('https://wallpapers.com/images/hd/cool-4k-ultra-hd-nao22k6od4a4djyl.jpg');
+}
+
+.div1 {
+    border: 5px solid black;
+    display: inline-block;
+    width: 500px;
+    height: 250px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    display: flex;
+    align-items: center;
+    background-image: url('https://img.freepik.com/free-vector/night-ocean-landscape-full-moon-stars-shine_107791-7397.jpg?semt=ais_hybrid&w=740');
+    box-shadow:black 0px 0px 70px 15px;
+
+}
+
+.div2 {
+    /* position:absolute;
+    top:30%;
+    left: 30%; */
+
+}
+
+.form {
+    height: auto;
+    width: 490px;
+    margin-bottom: 5px;
+}
+#checklab{
+    color:antiquewhite;
+}
+.HEAD{
+    color:beige;
+}
